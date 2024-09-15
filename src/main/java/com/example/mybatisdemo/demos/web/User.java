@@ -24,7 +24,6 @@ public class User {
     //TuerName
     private String name;
 
-    //添加年龄的注释
     private Integer age;
 
     public String getName() {
